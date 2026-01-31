@@ -1,0 +1,1 @@
+const course2022Endocrinology = []
