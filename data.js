@@ -21,12 +21,13 @@ var ppl = [
     
     },
     {
-        name: "mama",
+        name: "MAMAMAMAMAMAMAMMAMAMAM",
         age: 16
         
     },
 
 ]
+
 
 
 
