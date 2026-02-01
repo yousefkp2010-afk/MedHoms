@@ -21,12 +21,13 @@ var ppl = [
     
     },
     {
-        name: "MAMAMAMAMAMAMAMMAMAMAM",
+        name: "rueiaghoruaslbjdbvgsuerishgdoibgjtsdjfgitjw'opetjgap'dnrfgotuha['oerngeprijtio5heobgp'reij5thouh",
         age: 16
         
     },
 
 ]
+
 
 
 
