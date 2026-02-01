@@ -2,7 +2,7 @@ function sayHi(msg){
     console.log(msg);
 }
 
-let yousef = {
+var yousef = {
     name: "yousef",
     eat(){
         console.log("he is eating")
@@ -10,7 +10,7 @@ let yousef = {
     age: 18
 }
 
-const ppl = [
+var ppl = [
     {
         name: "ali",
         age: 12
@@ -27,4 +27,5 @@ const ppl = [
     },
 
 ]
+
 
