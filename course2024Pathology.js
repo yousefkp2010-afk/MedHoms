@@ -223,11 +223,11 @@ const course2024Pathology = [
     {
         question: "21 (دورة 2024) يشاهد التهاب الكبب والكلية الثانوي في التناذرات التالية عدا:",
         options: [
-            "SLE",
-            "Diabetes mellitus",
-            "Goodpasture syndrome",
-            "Polyarteritis nodosa",
-            "(الخيار الخامس ✅ فارغ بالمصدر)"
+            "SYSTEMIC LUPUS ERYTHYMATOSIS ",
+            " DIABETES MELLITUS",
+            "GOODPASTURE SYNDROME",
+            " POLYARTERITIS NODOSA ",
+            "BACTERIAL PNEUMONIA"
         ],
         correct: 4,
         explanation: ""
@@ -235,11 +235,11 @@ const course2024Pathology = [
     {
         question: "22 (دورة 2024) التهاب الكبب والكلية ما عدا:",
         options: [
-            "…",
-            "…",
-            "✅ (النص غير واضح بالمصدر)",
-            "…",
-            "…"
+            "MODERATE PROTIN UREA",
+            "ELEVATION OF ASO TITER",
+            "EVATED URINE LEUKOCYTES",
+            "GROSS HEMATURIA",
+            "ELEVATED BLOOD UREA AND SERUM CREATININE"
         ],
         correct: 2,
         explanation: ""
@@ -771,3 +771,4 @@ const course2024Pathology = [
         explanation: ""
     }
         ];
+
