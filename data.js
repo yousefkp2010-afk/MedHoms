@@ -3,7 +3,7 @@ function sayHi(msg){
 }
 
 var yousef = {
-    name: "yousef",
+    name: "YOUSEF",
     eat(){
         console.log("he is eating")
     },
@@ -27,5 +27,6 @@ var ppl = [
     },
 
 ]
+
 
 
