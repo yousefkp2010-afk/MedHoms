@@ -1368,4 +1368,71 @@ courseQuestionsSurgeryDoctor1 = {
 }; 
 
 
+for (let i = 1; i <= 7; i++){
+    if (i === 1){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `جراحة المريء`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 2){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `جراحة المعدة`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 3){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `جراحة الأمعاء الدقيقة`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 4){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `جراحة الفتوق`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 5){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `جراحة المرارة والطرق الصفراوية`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 6){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `أسئلة اضافية`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+    }else if(i === 7){
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `التصويبات`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+
+    }else{
+    subjectsData["general-surgery"].doctors["doctor1"].lectures.push({
+        title: `المحاضرة ${i}`,
+        id: 'surgery-doc1',
+        questions: courseQuestionsSurgeryDoctor1[i] || []
+    });
+
+
+    }
+
+}
+
+
+
+
+
 
