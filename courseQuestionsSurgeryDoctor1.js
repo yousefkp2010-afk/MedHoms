@@ -1,5 +1,5 @@
 
-const courseQuestionsSurgeryDoctor1 = {
+courseQuestionsSurgeryDoctor1 = {
     1: [
          {
         question: "1. فيما يخص تمزق مالوري وايس كل ما يلي صحيح ما عدا (2025)",
@@ -1366,5 +1366,6 @@ const courseQuestionsSurgeryDoctor1 = {
    ],
     6: []
 }; 
+
 
 
