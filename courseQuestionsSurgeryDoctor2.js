@@ -1,4 +1,4 @@
-const courseQuestionsSurgeryDoctor2 = 
+courseQuestionsSurgeryDoctor2 = 
 {
     // أسئلة محاضرة اولى جراحة تور علي
     1: [
@@ -570,4 +570,72 @@ const courseQuestionsSurgeryDoctor2 =
     ],
     6: []
 };
+
+for (let i = 1; i <= 8; i++){
+    if (i === 1){
+    subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `الجراحة التنظيرية`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if(i === 2){
+    subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: ` جراحة البدانة`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if(i === 3){
+    subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `الرضوض 1`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if(i === 4){
+            subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `الرضوض 2`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if(i === 5){
+            subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `الطحال`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+    }else if(i === 6){
+            subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `التغذية`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if(i === 7){
+            subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `أسئلة اضافية`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else if (i === 8){
+            subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `التصويبات`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }else{
+        subjectsData["general-surgery"].doctors["doctor2"].lectures.push({
+        title: `المحاضرة ${i}`,
+        id: 'surgery-doc2', 
+        questions: courseQuestionsSurgeryDoctor2[i] || []
+    });
+
+    }
+
+}
+
 
