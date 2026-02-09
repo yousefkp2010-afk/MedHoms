@@ -1,4 +1,4 @@
-const courseQuestionsSurgeryDoctor3 = {
+courseQuestionsSurgeryDoctor3 = {
     1: [    {
         question: "1. عن الفحص السريري نقول: (2025)",
         options: [
@@ -418,4 +418,77 @@ const courseQuestionsSurgeryDoctor3 = {
     5: [],
     6: []
 };
+for (let i = 1; i <= 9; i++) {
+    if (i === 1){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الكولون 1`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+    }else if(i === 2){
+            subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الكولون 2`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+
+    }else if(i === 3){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الكولون 3`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+
+    }else if(i === 4){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الكولون 4`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+
+    }else if(i === 5){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الزائدة الدودية`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+    }else if(i === 6){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `جراحة الشرج`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+
+    }else if(i === 7){
+        subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+        title: `لمفوما الجهاز الهضمي`,
+        id: 'surgery-doc3',
+        questions: courseQuestionsSurgeryDoctor3[i] || []
+    });
+
+    }else if(i === 8){
+            subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+            title: `الأسئلة الاضافية`,
+            id: 'surgery-doc3',
+            questions: courseQuestionsSurgeryDoctor3[i] || []
+        });
+
+    }else if(i === 9){
+            subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+            title: `التصويبات`,
+            id: 'surgery-doc3',
+            questions: courseQuestionsSurgeryDoctor3[i] || []
+        });
+
+    }else{
+            subjectsData["general-surgery"].doctors["doctor3"].lectures.push({
+            title: `المحاضرة ${i}`,
+            id: 'surgery-doc3',
+            questions: courseQuestionsSurgeryDoctor3[i] || []
+        });
+
+    }
+}
+
+
 
