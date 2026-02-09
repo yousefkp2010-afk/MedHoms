@@ -1,5 +1,5 @@
 
-const courseQuestionsPath = {
+courseQuestionsPath = {
 
     1 :[
  {
@@ -2555,4 +2555,100 @@ const courseQuestionsPath = {
     }
     ]
 };
+
+for (let i = 1; i <= 12; i++) {
+    if (i === 1){
+    subjectsData["pathology2"].lectures.push({
+        title: `الأوعية`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+    }else if(i === 2){
+        subjectsData["pathology2"].lectures.push({
+        title: `القلب`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }else if(i === 3){
+        subjectsData["pathology2"].lectures.push({
+        title: `المريء`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+ 
+    }else if(i===4){
+    subjectsData["pathology2"].lectures.push({
+        title: `المعدة`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }else if(i===5){
+        subjectsData["pathology2"].lectures.push({
+        title: `الأمعاء`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+   
+    }else if(i === 6){
+        subjectsData["pathology2"].lectures.push({
+        title: `الكبد والبنكرياس`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }else if(i === 7){
+        subjectsData["pathology2"].lectures.push({
+        title: `الرئة`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+        
+    }else if(i === 8){
+        subjectsData["pathology2"].lectures.push({
+        title: `الجهاز التكاثري الذكري`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+        
+    }else if(i === 9){
+        subjectsData["pathology2"].lectures.push({
+        title: `الجهاز التكاثري الأنثوي والثدي`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+        
+    }else if(i === 10){
+        subjectsData["pathology2"].lectures.push({
+        title: `السبيل البولي والكلية`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+        
+    }else if(i === 11){
+        subjectsData["pathology2"].lectures.push({
+        title: `الأسئلة الاضافية`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }else if(i === 12){
+                subjectsData["pathology2"].lectures.push({
+        title: `التصويبات`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }else{
+        subjectsData["pathology2"].lectures.push({
+        title: `المحاضرة ${i}`,
+        id: 'path',
+        questions: courseQuestionsPath[i] || []
+    });
+
+    }
+    
+}
+
 
