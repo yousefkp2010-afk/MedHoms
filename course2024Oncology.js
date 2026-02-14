@@ -19,7 +19,7 @@ const course2024Oncology = [ {
       "خزعة من الدرق"
     ],
     "correct": 2,
-    "explanation": ""
+    "explanation": "خلافي"
   },
   {
     "question": "الساركومات التالية تنتقل بالطريق اللمفاوي ما عدا: (دورة 2024)",
