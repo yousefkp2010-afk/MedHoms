@@ -534,7 +534,7 @@ const  course2023Oncology = [
             "ألم",
             "كتلة"
         ],
-        "correct": 0,
+        "correct": 1,
         "explanation": ""
     },
     {
