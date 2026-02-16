@@ -664,7 +664,7 @@ const  course2023Oncology = [
             "كلاهما",
             "ولا أي منهما"
         ],
-        "correct": 2,
+        "correct": 0,
         "explanation": ""
     },
     {
