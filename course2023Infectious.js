@@ -267,8 +267,8 @@ const course2023Infectious = [
             "حصبة",
             "حماق"
         ],
-        correct: 1,
-        explanation: ""
+        correct: 2,
+        explanation: "اختر الخطأ"
     },
     {
         question: "27. الخطأ عن مضاد استطباب المطلقة لقاح الإنفلونزا (دورة 2023):",
