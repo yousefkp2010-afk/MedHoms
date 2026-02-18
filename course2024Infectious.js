@@ -356,7 +356,7 @@ const course2024Infectious = [
             "الكلب.",
             "الدفتريا."
         ],
-        correct: 4,
+        correct: 1,
         explanation: ""
     },
     {
