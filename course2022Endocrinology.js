@@ -31,7 +31,7 @@ const course2022Endocrinology = [
                         "سليمة دائماً تقريباً.",
                         "قد تأتي في سياق تنازرات معينة أهمها MEN2."
                     ],
-                    correct: 0,
+                    correct: 2,
                     explanation: ""
                 },
                 {
