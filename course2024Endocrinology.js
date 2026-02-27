@@ -125,7 +125,7 @@ const course2024Endocrinology = [
             "لا يوجد فيها عقد.",
             "تحدث في مناطق عوز اليود."
         ],
-        "correct": 3,
+        "correct": 0,
         "explanation": ""
     },
     {
@@ -172,14 +172,14 @@ const course2024Endocrinology = [
         "explanation": ""
     },
     {
-        "question": "فيما يخص خزعة العقد الدرقية، الخطأ:",
+        "question": "فيما يخص ومضان الدرق، الخطأ:",
         "options": [
             "يميز وظيفة العقدة (حارة أو باردة).",
             "العقد السليمة معظمها باردة.",
             "العقدة الحارة سليمة دائماً تقريباً.",
             "يفيد بكشف التكاسات."
         ],
-        "correct": 0,
+        "correct": 3,
         "explanation": ""
     },
     {
@@ -227,14 +227,14 @@ const course2024Endocrinology = [
         "explanation": ""
     },
     {
-        "question": "فرط الدرق الثانوي:",
+        "question": "قصور درق بدئي:",
         "options": [
             "TSH مرتفع و FT4 طبيعي.",
             "TSH منخفض و FT4 منخفض.",
             "TSH منخفض و FT4 مرتفع.",
             "TSH مرتفع و FT4 منخفض."
         ],
-        "correct": 0,
+        "correct": 3,
         "explanation": ""
     },
     {
@@ -286,7 +286,7 @@ const course2024Endocrinology = [
             "كورتيزول حر في بول 24 ساعة.",
             "معايرة الكورتيزول 8 صباحاً."
         ],
-        "correct": 0,
+        "correct": 3,
         "explanation": ""
     },
     {
@@ -387,7 +387,7 @@ const course2024Endocrinology = [
             "قصة داء وعائي دماغي.",
             "سوابق ما قبل سكري."
         ],
-        "correct": 0,
+        "correct": 2,
         "explanation": ""
     },
     {
@@ -406,7 +406,7 @@ const course2024Endocrinology = [
         "options": [
             "يترافق مع هاشيموتو.",
             "بدء متأخر غالباً.",
-            "بدء خفيض.",
+            "بدء مخاتل.",
             "يترافق مع بدانة."
         ],
         "correct": 0,
@@ -514,7 +514,7 @@ const course2024Endocrinology = [
             "سكري مضبوط.",
             "سكري غير مضبوط."
         ],
-        "correct": 1,
+        "correct": 0,
         "explanation": ""
     },
     {
