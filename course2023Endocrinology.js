@@ -98,7 +98,7 @@ const course2023Endocrinology = [
                 {
                     question: "13. فرط نشاط الدرق الأولي:",
                     options: [
-                        "TSH منخفض مع FT4 مرتفع."
+                        "يكون TSH منخفض مع FT4 منخفض"
                     ],
                     correct: 0,
                     explanation: ""
@@ -128,9 +128,9 @@ const course2023Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "17. [placeholder]",
+                    question: "17في العلاج باليود المشع لفرط نشاط الدرق (الخطأ):",
                     options: [
-                        ""
+                        "تاثيره سريع خلال ساعات"
                     ],
                     correct: 0,
                     explanation: ""
@@ -250,7 +250,7 @@ const course2023Endocrinology = [
                 {
                     question: "32. مثبطات DPP4: (الصح)",
                     options: [
-                        "تعزز تأثير GLP1."
+                        "تطيل تأثير GLP1."
                     ],
                     correct: 0,
                     explanation: ""
@@ -322,7 +322,7 @@ const course2023Endocrinology = [
                 {
                     question: "41. من اختلاطات متلازمة كوشنغ: (الخطأ)",
                     options: [
-                        "تأخر انغلاق الرسغ."
+                        "تناذر نفق الرسغ."
                     ],
                     correct: 0,
                     explanation: ""
@@ -352,9 +352,9 @@ const course2023Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "45. [placeholder]",
+                    question: "45. العبارة الصحيحة في دهء كون (فرط الالدوسيرونية البدئي)",
                     options: [
-                        ""
+                        "يحدث فيه ارتفاع ضغط شرياني مع نقص بوتاسيوم"
                     ],
                     correct: 0,
                     explanation: ""
@@ -384,9 +384,9 @@ const course2023Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "49. [placeholder]",
+                    question: "49. التهاب النخامى اللمفاوي (الخطا)",
                     options: [
-                        ""
+                        "ينتهي بحدوث قصور درق نخامي"
                     ],
                     correct: 0,
                     explanation: ""
@@ -418,7 +418,7 @@ const course2023Endocrinology = [
                 {
                     question: "53. الخط الأول للعلاج في الورم البرولاكتيني: (الصح)",
                     options: [
-                        "ناهضات الدوبامين."
+                        "شادات الدوبامين."
                     ],
                     correct: 0,
                     explanation: ""
@@ -482,7 +482,7 @@ const course2023Endocrinology = [
                 {
                     question: "61. الخط الأول في علاج فرط كولسترول الدم: (الصح)",
                     options: [
-                        "مثبطات مختزلة HMG-CoA (الستاتينات)."
+                        "مثبطات مرجعة HMG-CoA (الستاتينات)."
                     ],
                     correct: 0,
                     explanation: ""
