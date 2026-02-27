@@ -51,7 +51,7 @@ const course2022Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "7. في المظاهر السريرية لخصائص النهايات: (الخطأ)",
+                    question: "7. في المظاهر السريرية لضخامة النهايات: (الخطأ)",
                     options: [
                         "ملامح وجه ناعمة."
                     ],
@@ -59,7 +59,7 @@ const course2022Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "8. في أسباب البيئة التفحة النخامية: (الخطأ)",
+                    question: "8. في أسباب البيلة التفهة النخامية: (الخطأ)",
                     options: [
                         "ذات الرئة."
                     ],
@@ -101,7 +101,7 @@ const course2022Endocrinology = [
                 {
                     question: "13. في علاج متالزمة كوشينغ: (الخطأ)",
                     options: [
-                        "علاج الهاجر: استئصال الكثيرين."
+                        "علاج الهاجر: استئصال الكظرين."
                     ],
                     correct: 0,
                     explanation: ""
@@ -163,9 +163,9 @@ const course2022Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "21. ?",
+                    question: "21. معدل انتشار الداء السكري (الصح)",
                     options: [
-                        "A 7."
+                        "7%."
                     ],
                     correct: 0,
                     explanation: ""
@@ -222,7 +222,7 @@ const course2022Endocrinology = [
                     explanation: ""
                 },
                 {
-                    question: "28. درجة الأنسولين في عالج الداء السكري نمط 1 : (الصح)",
+                    question: "28. جرعة الأنسولين في عالج الداء السكري نمط 1 : (الصح)",
                     options: [
                         "(1-0.5) وحدة/كغ حوالي نصفها قاعدي."
                     ],
