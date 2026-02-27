@@ -113,7 +113,7 @@ const course2025Endocrinology = [
         "صم.",
         "خطأ."
     ],
-    correct: 0,
+    correct: 1,
     explanation: ""
 },
 {
@@ -210,7 +210,18 @@ const course2025Endocrinology = [
         "طبيعي.",
         "نقص سكر الدم."
     ],
-    correct: 0,
+    correct: 2,
+    explanation: ""
+},
+  {
+    question: "شخص لديه سكر عشوائي 270 مغ/دل مع اعراض الداء السكري يوجه الى:",
+    options: [
+        "ما قبل السكري.",
+        "داء سكري.",
+        "طبيعي.",
+        "نقص سكر الدم."
+    ],
+    correct: 1,
     explanation: ""
 },
 {
@@ -219,7 +230,7 @@ const course2025Endocrinology = [
         "مضبوط.",
         "غير مضبوط."
     ],
-    correct: 1,
+    correct: 0,
     explanation: ""
 },
 {
@@ -248,7 +259,7 @@ const course2025Endocrinology = [
         "يحدث بشكل أساسي في النساء الحوامل بعد الولادة.",
         "القصور النخامي عابر عادة."
     ],
-    correct: 3,
+    correct: 1,
     explanation: ""
 },
 {
@@ -312,9 +323,9 @@ const course2025Endocrinology = [
         "الورم القحفي البلعومي.",
         "التهاب السحايا.",
         "فرط كالسيوم الدم.",
-        "تناخر شيهان."
+        "تناذر شيهان."
     ],
-    correct: 3,
+    correct: 2,
     explanation: ""
 },
 {
@@ -358,7 +369,7 @@ const course2025Endocrinology = [
         "لا يحدث فيها عقد درقية.",
         "تنجم عن عوز اليد."
     ],
-    correct: 2,
+    correct: 1,
     explanation: ""
 },
 {
@@ -373,14 +384,14 @@ const course2025Endocrinology = [
     explanation: ""
 },
 {
-    question: "أهم عامل خطورة للإصابة بالسرطانية الحليمية للدرق: (الخطأ)",
+    question: "من المظاهر الموجهة لسرطان الدرق سريريا (الخطأ)",
     options: [
         "ضخامة عقد لمفية رقبية.",
         "التعرض للإشعاع.",
         "الجنس المؤنث.",
         "العمر أقل من 30 سنة."
     ],
-    correct: 0,
+    correct: 2,
     explanation: ""
 },
 {
@@ -413,7 +424,7 @@ const course2025Endocrinology = [
         "معظم العقد الخبيثة باردة ومضائياً.",
         "معظم العقد السليمة باردة ومضائياً."
     ],
-    correct: 3,
+    correct: 0,
     explanation: ""
 },
 {
@@ -545,7 +556,7 @@ const course2025Endocrinology = [
         "نقص بوتاسيوم المصل.",
         "ارتفاع ضغط معند على العلاج بأربعة أدوية خافضة للضغط."
     ],
-    correct: 1,
+    correct: 3,
     explanation: ""
 },
 {
@@ -571,14 +582,14 @@ const course2025Endocrinology = [
     explanation: ""
 },
 {
-    question: "الدواء المفضل لعلاج داء كون:",
+    question: "من العلاجات الدوائية لفرط الالدوسيرونية البدئي (الخطا):",
     options: [
         "فورسييد.",
         "سيرونوالاكتون.",
         "إيبليرون.",
         "تريامترين."
     ],
-    correct: 1,
+    correct: 0,
     explanation: ""
 },
 {
@@ -604,14 +615,14 @@ const course2025Endocrinology = [
     explanation: ""
 },
 {
-    question: "من أسباب قصور الكظز الأولي: (الخطأ)",
+    question: "السبب الاكثر شيوعا لقصور الدريقات هو:",
     options: [
         "قصور الكظز التالي للجراحة.",
         "قصور الكظز المناعي الذاتي.",
         "عوز فيتامين د.",
         "القصور الكلوي."
     ],
-    correct: 2,
+    correct: 0,
     explanation: ""
 },
 {
@@ -626,14 +637,14 @@ const course2025Endocrinology = [
     explanation: ""
 },
 {
-    question: "في قصور الكظز الكاذب نجد مخبرياً: (الخطأ)",
+    question: "في قصور الدريقات الكاذب نجد مخبرياً: (الخطأ)",
     options: [
         "نقص كالسيوم الدم.",
         "انخفاض PTH.",
         "فرط فوسفور الدم.",
         "انخفاض الكالسترول."
     ],
-    correct: 3,
+    correct: 1,
     explanation: ""
 },
 {
@@ -699,7 +710,7 @@ const course2025Endocrinology = [
         "14 سنة.",
         "13 سنة."
     ],
-    correct: 1,
+    correct: 0,
     explanation: ""
 },
 {
