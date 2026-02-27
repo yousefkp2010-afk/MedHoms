@@ -90,7 +90,7 @@ const course2021Endocrinology = [
                 {
                     question: "12. من الأسباب العلاجية لقصور الدرق: (الخطأ)",
                     options: [
-                        "ناهضات الدوبامين"
+                        "شادات الدوبامين"
                     ],
                     correct: 0,
                     explanation: ""
